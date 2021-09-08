@@ -1,0 +1,71 @@
+﻿Sprint #1 Backlog
+October 21 to October 27
+
+
+User Stories from Product Backlog that we will address in this sprint:
+A. As a User, I should be able to exit the terminal at any given time 
+B. As a User, I should be able to store related information in one location 
+C. As a User, I should be able to make a directory 
+D. As a User, I should be able to make a two directory 
+E. As a User, I should be able to view the contents of a specific directory 
+F. As a User, I should be able to view the contents of the current directory 
+G. As a User, I should be able to print out the contents of a specific file 
+H. As a User, I should be able to know why my command is wrong 
+I. As a User, I should be prompted to input a command 
+
+
+Specific tasks to be accomplished:
+!-1 Discuss adjustments required for CRC cards (group task)
+!-2 Identify how user inputs are to be handled according to user stories (group task)
+!-3 Apply adjustments to CRC cards and implement methods accordingly (group task)
+A-1 Fully implement “exit” command
+B-1 Identify how to implement the concept of directories
+B-2 Create a prototype of the directory type (i.e. an object)
+C-1 Implement case for “mkdir” to create one directory given relative path
+C-2 Implement case for “mkdir” to create one directory given a full path
+C-3 Add an error handling system that calls error handling method (see ) to report errors
+D-1 Implement case for “mkdir” to create a second directory after the first given relative path
+D-2 Implement case for “mkdir” to create a second directory after the first given a full path
+D-3 Add an error handling system that handles errors in this specific case
+E-1 Implement case for “ls” to list the contents of a directory with its full path as parameter
+E-2 Implement case for “ls” to list the contents of a directory with its relative path as parameter
+E-3 Add an error handling system..
+F-1 Implement case for “ls” to list the contents of the current directory
+F-2 If there is a possible error add an error handling system
+G-1 Implement case for “ls” to list the contents of a file with its full path as parameter
+G-2 Implements case for “ls” to list the contents of a file with its relative path as parameter
+G-3 Add an error handling system..
+H-1 Implement a method that takes in inputs that are (part of) error messages and prints them
+I-1 Implement basic user input collection method
+I-2 Implement user input interpreter
+I-3 Add an error handling system in case of invalid commands
+
+
+Key: ! represents task that are critical for the future implementation of the program and must be done as soon as possible and as a group
+
+
+
+
+These tasks are assigned as follows:
+
+
+Efkan:
+Tasks: !-1, !-2, !-3, A-1,A-2,E-1, E-2, E-3, F-1, F-2
+
+
+Artem:        
+Tasks: !-1, !-2, !-3, B-1, B-2, C-1, C-2, C-3, D-1, D-2, D-3, 
+
+
+Justin:        
+Tasks: !-1, !-2, !-3, B-1, B-2, C-1, C-2, C-3, D-1, D-2, D-3
+
+
+Bob: 
+Tasks: !-1, !-2, !-3, I-1, I-2, I-3, H-1, G-1, G-2, G-3
+
+
+
+
+Additional notes(errors, incomplete tasks):
+incomplete tasks: A-2, C-1, C-2, C-3, D-1, D-2, D-3, E-1, E-2, E-3, F-1, F-2, G-1, G-2, G-3, I-3

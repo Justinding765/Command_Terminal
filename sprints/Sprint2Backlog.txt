@@ -1,0 +1,74 @@
+﻿Sprint #2 Backlog
+October 28 to November 3
+
+
+User Stories from Product Backlog that we will address in this sprint:
+A. As a User, I should be able to exit the terminal at any given time
+C. As a User, I should be able to make a directory
+D. As a User, I should be able to make a two directory 
+E. As a User, I should be able to view the contents of a specific directory 
+F. As a User, I should be able to view the contents of the current directory 
+G. As a User, I should be able to print out the contents of a specific file 
+I. As a User, I should be prompted to input a command 
+J.As a User, I should be able to change my current directory
+K. As a User, I should be able to display the path of my current working directory
+L. As a User, I should be able to change my current working directory whilst saving my previous working directory
+M. As a User, I should be able to access the most recently saved directory
+
+
+Specific tasks to be accomplished:
+1.Implement Directory Stack Class, which is needed for the pushd and popd commands. 
+2. Implement Class that keeps track of current working class. 
+A-2 Fully implement "exit" command
+C-1 Implement case for “mkdir” to create one directory given relative path
+C-2 Implement case for “mkdir” to create one directory given a full path
+C-3 Add an error handling system that calls error handling method (see ) to report errors
+D-1 Implement case for “mkdir” to create a second directory after the first given relative path
+D-2 Implement case for “mkdir” to create a second directory after the first given a full path
+E-1 Implement case for “ls” to list the contents of a directory with its full path as parameter
+E-2 Implement case for “ls” to list the contents of a directory with its relative path as parameter
+E-3 Add an error handling system..
+F-1 Implement case for “ls” to list the contents of the current directory
+F-2 If there is a possible error add an error handling system
+G-1 Implement case for “ls” to list the contents of a file with its full path as parameter
+G-2 Implements case for “ls” to list the contents of a file with its relative path as parameter
+G-3 Add an error handling system..
+H-1 Implement a method that takes in inputs that are (part of) error messages and prints them
+I-3 Add an error handling system in case of invalid commands
+J-1 Implement CD case that allows user change from current directory to DIR(relative path case). Keep in mind that  “..”  means going to the parent directory, and “.” means current directory
+J-2 Implement Cd case that allows user change from current directory to DIR(Full path case)
+J-3 Implement error handling system
+K-1 Implement method for PWD that displays the whole path of current working directory
+L-1 Implement method that saves current working directory path on directory stack(LIFO). 
+L-2 Implement method that allows the user to change directories to DIR from the current working directory(Use cd?)
+L-3 Add error handling system
+M-1 Change directories from current to the directory at the top of the directory stack 
+M-2 Remove path at the top of the stack from directory stack(LIFO)
+M-3 add error handling system(i.e case where directory stack is empty)
+These tasks are assigned as follows:
+
+
+Efkan:
+Tasks: A-2,E-1, E-2, E-3, F-1, F-2, L-1, L-2, L-3, M-1, M-2, M-3,
+
+
+
+
+Artem:        
+Tasks:C-1, C-2, C-3, D-1, D-2, D-3, J-1,J-2,J-3, K-1, 2
+
+
+
+
+Justin:        
+Tasks: C-1, C-2, C-3, D-1, D-2, D-3, J-1, J-2,J-3, K-1, 2
+
+
+
+
+Bob: 
+Tasks: I-3, H-1, G-1, G-2, G-3, L-1, L-2, L-3, M-1, M-2, M-3, 1
+
+
+Additional notes(errors, incomplete tasks):
+None.

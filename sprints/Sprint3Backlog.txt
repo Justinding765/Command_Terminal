@@ -1,0 +1,83 @@
+﻿Sprint #3 Backlog
+November 4 to November 10
+
+
+User Stories from Product Backlog that we will address in this sprint:
+A. As a User, I should be able to exit the terminal at any given time
+C. As a User, I should be able to make a directory
+D. As a User, I should be able to make a two directory 
+E. As a User, I should be able to view the contents of a specific directory 
+F. As a User, I should be able to view the contents of the current directory 
+G. As a User, I should be able to print out the contents of a specific file 
+I. As a User, I should be prompted to input a command 
+J.As a User, I should be able to change my current directory
+K. As a User, I should be able to display the path of my current working directory
+L. As a User, I should be able to change my current working directory whilst saving my previous working directory
+M. As a User, I should be able to access the most recently saved directory
+N. As a User, I should be able to print out recent commands
+O. As a User, I should be able to display the contents of multiple files together
+P. As a User, I should be able to save a what I input into a file
+Q. As a User, I should be able to add a string into the contents of file
+R. As a User, I should be able to replace the contents of the file with a string
+S. As a User, I should be able to see what each command does
+
+
+Specific tasks to be accomplished:
+1.Implement a class called “command” that is a parent class for all valid commands. 
+C-3 Add an error handling system that calls error handling method (see ) to report errors for mkdir
+E-3 Add an error handling system for ls
+F-2 If there is a possible error add an error handling system
+G-3 Add an error handling system ls (file) case. 
+H-1 Implement a method that takes in inputs that are (part of) error messages and prints them
+I-3 Add an error handling system in case of invalid commands
+J-3 Implement error handling system for cd
+L-3 Add error handling system for pushd
+M-3 add error handling system(i.e case where directory stack is empty)
+N-1 Implement history command that prints recent commands
+N-2 Implement history command case where user specifies the number of recent commands. 
+N-3 implement error handling system for history
+O-1 Implement case for cat  where the user inputs one parameter
+O-2 Implement case for cat where the user inputs multiple parameters
+O-3 Implement error handling case for cat
+P-1 Implement case for Echo1 where OUTFILE does not exist.(I.e create a new file with user desired contents)
+P-2 Implement case for Echo2(I.e create a new file with user desired contents)
+P-3 Implement error handling system for case 1 of Echo1, Echo2
+Q-1 Implement overwrite case for Echo1
+Q-2 implement error handling system for case2 of Echo2
+R-1 Implement append case for Echo2
+R-2 implement error handling system for case2 of Echo2
+S-1 Implement “man” command, where only one parameter is entered
+S-2 Implement “man command, where there’s more than one parameter
+S-3 implement error handling for “man”
+These tasks are assigned as follows:
+Efkan:
+Tasks: L-3, M-3,P-1,P-2,P-3,Q-1,Q-2, R-1,R-2, S-1,S-2,S-3
+
+
+
+
+Artem:        
+Tasks:C-3, J-3,O-1,O-2,O-3, S-1,S-2,S-3
+
+
+
+
+
+
+Justin:        
+Tasks: C-3, J-3,N-1,N-2,N-3, O-1,O-2,O-3, S-1,S-2,S-3
+
+
+
+
+
+
+Bob: 
+Tasks:G-3, L-3, M-3, P-1,P-2,P-3,Q-1,Q-2, R-1,R-2
+
+
+Additional notes(errors, incomplete tasks):
+
+
+* Every task that involves adding error handling must be completed. Finish error implementation cases for every command.(I.e cover cases where user input is invalid, and then give the user a suitable error message).
+* Decided to have a global variable that points to the current working directory, instead having a class that does the same purpose.

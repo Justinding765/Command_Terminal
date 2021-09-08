@@ -1,0 +1,61 @@
+﻿Sprint #2 Backlog
+November 23 to November 30
+
+
+User Stories from Product Backlog that we will address in this sprint:
+J. As a User, I should be able to save the current version of my mock filesystem as a file on the actual file system in the computer
+K. As a User, I should be able overwrite current existing version of the mock filesystem on the computer
+L. As a User, I should be able to resume progress of my mock filesystem after closing the terminal
+M.  As a User, I should be able to load my mock filesystem file from my computer onto J shell
+
+
+Specific tasks to be accomplished:
+1.Add J unit tests for all new classes created 
+2. Addition:redirection,  either with>OUTFILE or>>OUTFILE, can be applied to every command
+3. Make changes based on feedback from A2A
+J-1,K-1 Thoroughly discuss the process of implementing the Save Jshell Command
+J-2,K-2 Implement the Save Jshell command
+J-3,K-3 Implement error handling
+L-1,M-1 Thoroughly discuss the process of implementing the Load Jshell Command
+L-2,M-2 Implement the Load Jshell Command
+L-3,M-3 Implement error handling
+ 
+These tasks are assigned as follows:
+
+
+Efkan:
+Tasks: 1,2, 3, J-1, K-1, J-2,K-2, J-3, K-3, L-1,M-1, L-2,M-2, L-3, M-3
+
+
+
+
+Artem:        
+Tasks:1,2, 3, J-1, K-1, J-2,K-2, J-3, K-3, L-1,M-1, L-2,M-2, L-3, M-3
+
+
+
+
+
+
+Justin:        
+Tasks: 1,2, 3,J-1, K-1, J-2,K-2, J-3, K-3, L-1,M-1, L-2,M-2, L-3, M-3
+
+
+
+
+
+
+
+
+Bob: 
+Tasks: 1,2, 3,J-1, K-1, J-2,K-2, J-3, K-3, L-1,M-1, L-2,M-2, L-3, M-3
+
+
+
+
+
+
+Additional notes(errors, incomplete tasks):
+* Were able to complete more command implementations than expected. This includes every needed command expect Save Jshell and Load Jshell commands
+* Incomplete tasks:  1.Add J unit tests for all new classes created 
+2. Addition:redirection,  either with>OUTFILE or>>OUTFILE, can be applied to every command
