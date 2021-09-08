@@ -1,0 +1,9 @@
+What did I work in the last three days?
+	- Discuss ideas for how to save filesystems with groupmates
+	- Discuss ideas for the tree command
+What do I plan to work in the next three days?
+	- Adjust Project according the grading feedback
+	- Fix minor bugs that came from TA test cases
+	- Begin implementation of tree and savefilesystem
+
+Am I blocked on anything?

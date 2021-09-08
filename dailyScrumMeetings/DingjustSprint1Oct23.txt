@@ -1,0 +1,21 @@
+﻿a) What did I work on in the last three days? 
+
+We discussed implementation detail with the user 
+input class(i.e how user is going to input their desired command). 
+Specifically we discussed how we would deal with the multiple ways 
+in which an user can input their commands, 
+and how the number of white spaces between commands and 
+parameters can be ignored, as long as it’s more than one. 
+Plan to use the split method in java, to split the input string 
+into multiple substrings(spaces will be the delimiters), 
+with the first substring representing the command, 
+and the rest representing parameters such as file or directory paths. 
+These substrings will then be passed onto other classes, so that they complete their purposes.  
+
+b) What do I plan to work in the next three days?
+   
+Discuss CRC cards, and make any adjustments to existing CRC cards using combined feedback from A1. 
+Implement new CRC cards corresponding to the new commands appearing in A2
+
+c) Am I blocked on anything?  
+        No

@@ -1,0 +1,7 @@
+﻿a) What did I work on in the last three days? 
+* Finished testing edge cases for cp directory
+* Added unit test cases for Tree, Cp directory, AbsolutePathFinder 
+b) What do I plan to work in the next three days?
+* Reflection
+c) Am I blocked on anything?  
+No.

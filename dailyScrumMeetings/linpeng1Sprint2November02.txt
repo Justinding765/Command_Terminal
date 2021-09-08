@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Finished implementing a helper command that is critical to the operations of Ls and Cd
+    - Started implementing Ls
+    - Started planning for directory stack and popd, pushd commands
+
+What do I plan to work in the next three days?
+    - Finish Ls
+    - Start working on popd, pushd
+
+Am I blocked on anything?
+    None
+

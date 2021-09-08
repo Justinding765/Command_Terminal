@@ -1,0 +1,11 @@
+﻿What did I work on in the last three days? 
+- Implemented the recursive case of ls, and updated it to A2B standards
+- Added many helper methods and shortened the method sizes in manual, list
+- Created javadocs for multiple commands
+- Created a general initializer method for OutputHandler, and used it in commands that require it
+
+What do I plan to work in the next three days?
+-Times up!
+
+Am I blocked on anything?  
+-Couldn't do enough testing

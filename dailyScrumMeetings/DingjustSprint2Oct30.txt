@@ -1,0 +1,8 @@
+﻿*Had a later meeting than usual, so the daily scrum will be a couple minutes late.
+a) What did I work on in the last three days? 
+* Finished implementing, mkdir class
+* Started discussing implementation of pushd and popd commands  
+b) What do I plan to work in the next three days?
+* Finish implementation of pushd and popd commands 
+c) Am I blocked on anything?  
+        No

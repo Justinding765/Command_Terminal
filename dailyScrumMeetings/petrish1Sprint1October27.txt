@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- Discussed the design of the Node class with Justin
+	- Began implementation of the Node class and DIR class
+	
+What do I plan to work in the next three days?
+	- Finish implementing Node class
+	- Finish implementing directories class
+
+Am I block on anything?

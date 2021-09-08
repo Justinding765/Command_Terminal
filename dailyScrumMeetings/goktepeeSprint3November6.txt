@@ -1,0 +1,11 @@
+﻿What did I work on in the last three days? 
+
+- Worked on the file system and command passing system entirely with teammates.
+- Re-did popd, pushd, directoryStack, CD, pwd
+- Debugged the JShell, Command class, and other commands thoroughly
+
+What do I plan to work in the next three days?
+- Complete and test remaining commands one by one, with priority to CD and mkdir
+
+Am I blocked on anything?  
+No

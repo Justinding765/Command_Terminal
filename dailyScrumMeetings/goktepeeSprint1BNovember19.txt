@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+- Added new commands and updated descriptions within man
+- Changed the way man works according to the A2B handout
+- Added several error cases and corrected typos in multiple commands
+
+What do I plan to work in the next three days?
+- Determine what's missing in ls and cat, and get as much as I can done.
+- Test our commands for errors as a team
+
+Am I blocked on anything?
+- No

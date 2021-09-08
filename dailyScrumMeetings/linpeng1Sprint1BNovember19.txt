@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Implemented Cp with Justin
+    - Implemented RmDir with Artem
+    - Implemented Mv with Artem
+
+What do I plan to work in the next three days?
+    - Unit testing for classes above
+    - Discuss with team memebers to construct a proper design for:
+	-Tree
+	-Save
+	-Load
+
+Am I blocked on anything?
+    None

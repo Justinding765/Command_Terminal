@@ -1,0 +1,9 @@
+﻿a) What did I work on in the last three days? 
+* He had a demo with TA, where he gave us advice on how to implement a feature that allows us to always keep track of currenting working directory. Decided to store is as a static variable in the command class
+* Finished implementing cd and pwd. 
+* Fixed errors in Jshell
+b) What do I plan to work in the next three days?
+* Work on edge causes for mkdir, cd and pwd. 
+* Test all the commands and edge cases for each command. 
+c) Am I blocked on anything?  
+No

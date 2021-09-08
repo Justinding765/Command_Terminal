@@ -1,0 +1,7 @@
+What did I work in the last three days?
+	- JUnit test cases for all classes and their methods
+	- Testing on JShell
+What do I plan to work in the next three days?
+	- Study for the quiz and the final exam
+
+Am I blocked on anything?

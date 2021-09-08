@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+-For the last three days, I have worked with everyone to design the implementation behind most of the commands.
+-I have collaborated with my teammates to develop the necessary classes to handle user input and run commands.
+-I have partially completed the commands 'exit' and 'ls'.
+
+What do I plan to work in the next three days?
+-I will complete the 'exit' command
+-I will complete the 'ls' command
+-I will work on the different input handling conditions for the ls command
+-I will create an error handling system for the program
+
+Am I blocked on anything?
+-I need to know what is expected from the 'exit' function in order to complete it. i.e. will it only exit the program or is it expected to close the terminal?
+-I need to know how the nodes in the directory class will be implemented in order to complete 'ls'.

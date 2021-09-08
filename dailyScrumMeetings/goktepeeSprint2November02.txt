@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+- Finished implementing a helper command that is critical to the operations of Ls and Cd
+- Started implementing Ls
+- Started planning for directory stack and popd, pushd commands
+
+What do I plan to work in the next three days?
+- Tweak JShell and directoryNode in order to complete Ls
+- Finish implementing popd
+- Finish implementing pushd
+
+Am I blocked on anything?
+-directoryNode
+-JShell
+- Deciding how we handle the cwd variable

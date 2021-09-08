@@ -1,0 +1,11 @@
+a) What did I work on in the last three days?
+-For the last three days, I have worked with our team on adapting our CRC cards from our previous assignment.
+-I have collaborated with my teammates to prepare a product backlog and split the workload for our first sprint.
+
+b) What do I plan to work in the next three days?
+-I plan to work on perfecting the CRC cards for this assignment.
+-I will begin implementing the "exit" command,
+-as well as the "ls" command.
+
+c) Am I blocked on anything?
+-Currently I am not blocked on anything.

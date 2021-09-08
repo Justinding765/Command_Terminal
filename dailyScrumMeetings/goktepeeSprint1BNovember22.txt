@@ -1,0 +1,12 @@
+﻿What did I work on in the last three days? 
+- Planned a change for man according to the feedback for our Assignment 2A
+- Mapped out several error fixes for failed test cases in A2A
+- Changes to a couple error messages in various commands
+
+What do I plan to work in the next three days?
+- Begin implementing saveJShell and loadJShell
+- Implement changes in cat
+- Implement changes in ls
+
+Am I blocked on anything?  
+No

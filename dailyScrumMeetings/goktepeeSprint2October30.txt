@@ -1,0 +1,10 @@
+﻿What did I work on in the last three days?
+-Finished implementing exit, waiting for testing to push
+-Working to complete ls
+b) What do I plan to work in the next three days?
+-Finish ls
+-Implement popd
+-Implement pushd
+-implement directorystack
+c) Am I blocked on anything?
+-No

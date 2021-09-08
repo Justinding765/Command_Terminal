@@ -1,0 +1,16 @@
+﻿What did I work on in the last three days? 
+- Added a private string "manual" to each command, which contains information on how the command is used.
+- Added an overloaded method 'void printManual()' in each command, which prints the private string manual.
+- Several small changes in cat
+- Several small changes in mkDir
+- Deleted all manual strings from Man, changed how the command works.
+- Added a new error message case for pwd
+- Changed class names to nouns and verbs
+
+What do I plan to work in the next three days?
+- Update ls to A2B standard
+- Add cases for popd/pushd . and popd/pushd ..
+- Help bob with redirect
+
+Am I blocked on anything?  
+Not at the moment

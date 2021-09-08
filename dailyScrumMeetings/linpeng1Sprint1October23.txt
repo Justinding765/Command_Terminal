@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - brainstormed design ideas with team for directory implementation
+    - Hammered out a plausible concept for user input handling
+    - Helped with team on adapting CRC cards
+
+What do I plan to work in the next three days?
+    - Finishing CRC cards in a way that fits user story requirements
+    - Start implementing the user input handling method
+    - After finishing tasks above, I may help finalize a design for
+      directory implementation (as that is required for "ls" command)
+
+Am I blocked on anything?
+    - N/A

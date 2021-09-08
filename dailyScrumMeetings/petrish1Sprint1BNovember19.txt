@@ -1,0 +1,10 @@
+What did I work in the last three days?
+	- Implementation of Move Command done with Bob
+	- Discussed User Stories and ProductBacklog with groupmates
+	- Discussed further design ideas with the changes that come with 2B
+What do I plan to work in the next three days?
+	- Discuss ideas for how to save filesystems with groupmates
+	- JUnit test cases across all classes and methods
+	- Discuss ideas for the tree command
+
+Am I blocked on anything?

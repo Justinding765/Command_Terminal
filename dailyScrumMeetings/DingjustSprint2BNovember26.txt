@@ -1,0 +1,9 @@
+﻿a) What did I work on in the last three days? 
+* Discussed implementation for Save and Load JShell
+* Implemented Save JShell command
+* Implemented Load JShell Command
+b) What do I plan to work in the next three days?
+* I plan on commenting the classes that I wrote
+* I plan on adding J-unit test cases for CD, Mkdir, Save JShell, LoadShell, and Tree
+c) Am I blocked on anything?  
+No.

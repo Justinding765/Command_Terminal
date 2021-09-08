@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- Discussed design ideas with group mates
+	- Divided work among all team members
+	
+What do I plan to work in the next three days?
+	- Develop a final set of crc cards that fully follows our groups design
+	- Begin implementing directories
+
+Am I block on anything?

@@ -1,0 +1,9 @@
+﻿a) What did I work on in the last three days? 
+* Finished implementing edge cases for mkdir pwd and cd
+* Finished implementing echo(append) and echo(overwrite)
+* Helped complete man command, and finished implementing pushd and popd exam
+* Heavily tested all the commands
+b) What do I plan to work in the next three days?
+* Finish peer evaluation
+c) Am I blocked on anything?  
+No.

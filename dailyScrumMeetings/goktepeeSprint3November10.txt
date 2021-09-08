@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+- Debugged each command seperately.
+- Implemented commands man and cat
+- Re-did pushd and popd
+- Wrote javadocs for each method within classes Cat, CD, Command, DirectoryNode, Echo, ErrorHandling, Exit
+
+What do I plan to work in the next three days?
+- Not sure
+
+Am I blocked on anything?
+- No

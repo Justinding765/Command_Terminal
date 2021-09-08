@@ -1,0 +1,8 @@
+﻿a) What did I work on in the last three days? 
+* We discussed the concept of how to implement directories, and the prototype of a directory object. We decided that the directory object would inherit from a parent class called node. Beginning implementing the node, directoryNode classes.
+
+
+b) What do I plan to work in the next three days?
+        Finish implementing the node and directory Node classes. Finish implementing the mkDir command, including accounting for errors.
+c) Am I blocked on anything?  
+No.

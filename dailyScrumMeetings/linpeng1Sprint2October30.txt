@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Discussed with group on how to navigate through directories
+    - Finished planning for LS command
+    - Further updated CRC cards
+
+What do I plan to work in the next three days?
+    - Start actual implementation of LS
+    - Add error handling portion of LS
+
+Am I blocked on anything?
+    None
+

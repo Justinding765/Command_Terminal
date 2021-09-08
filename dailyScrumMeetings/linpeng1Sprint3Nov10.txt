@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Debugging the whole program with edge cases
+    - Commented on some classes
+
+What do I plan to work in the next three days?
+    - N/A
+
+Am I blocked on anything?
+    None

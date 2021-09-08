@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Finished planning on on to implement the concept of directories
+    - Finished implementing parts of UserInputHandling
+    - Further updated CRC cards
+
+What do I plan to work in the next three days?
+    - Start working on LS command as instructed in sprint1backlog
+
+Am I blocked on anything?
+    - May be delayed on LS if the concept of directories are changed or not finished
+    - Based on current pace, no problems will occur

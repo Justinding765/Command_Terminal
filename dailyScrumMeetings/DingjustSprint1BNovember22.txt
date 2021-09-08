@@ -1,0 +1,11 @@
+﻿a) What did I work on in the last three days? 
+* I assisted in implementing the search command
+* Implemented the tree command, and tested the tree command thoroughly
+* Began discussing implementation for save and load jshell commands
+* Modified echo, mkdir, and cd based on assignment 2A feedback
+b) What do I plan to work in the next three days?
+* Add unit test cases for Mkdir class, CD class, PWD class, Echo class, pushd class, popd class, cp directory, and cat class
+* Begin implementation on search command, and tree command
+* Finish discussing implementation for save and load jshell
+c) Am I blocked on anything?  
+No.

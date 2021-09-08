@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- Attended demo with group memembers
+	- Discussed final design ideas with groupmates after demo and given feedback from TA
+
+What do I plan to work in the next three days?
+	- Testing commands and their functionality
+	- Final implementation of mkdir, menu and JShell
+
+Am I blocked on anything?

@@ -1,0 +1,9 @@
+What did I work in the last three days?
+	- Bug testing our JShell with all appropriate commands
+	- Added JavaDoc and changed class/methods to follow proper naming conventions
+	- Completed implementation of mkdir and JShell
+	- Edge case testing for all commands
+
+What do I plan to work in the next three days?
+
+Am I blocked on anything?

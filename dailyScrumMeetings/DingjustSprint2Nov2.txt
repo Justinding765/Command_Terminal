@@ -1,0 +1,10 @@
+﻿a) What did I work on in the last three days? 
+* Implemented a class called finder, that returns a pointer to the directory that the user inputs
+* Finished implementing the CD command
+* Finished implementing the pwd command
+* Added a global variable that always stores a pointer to the current working directory
+b) What do I plan to work in the next three days?
+* Start implementing error cases for mkdir, Cd and pwd commands
+* Began discussing and implementing history command
+c) Am I blocked on anything?  
+        No

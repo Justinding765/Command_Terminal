@@ -1,0 +1,10 @@
+What did I work in the last three days?
+	- JUnit test cases for all classes and their methods
+	- Outlining all edge cases
+What do I plan to work in the next three days?
+	- Testing of all commands 
+	- Check for any remaining bugs in our JShell
+	- Change class names to adhere naming convention
+	- JUnit completion for all significant methods
+
+Am I blocked on anything?

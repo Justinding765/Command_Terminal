@@ -1,0 +1,12 @@
+﻿a) What did I work on in the last three days? 
+* Finished implementing cp directory/file command, including testing for edge cases
+* Finished implementing additional requirements for mkdir, that allows user to specify the amount of directories they want to make
+* Finished implementing curl command
+* Assisted with implementation of remove directory command.
+* Assisted with implementation of mv directory/file command
+b) What do I plan to work in the next three days?
+* Add unit test cases for Mkdir class, CD class, PWD class, Echo class, pushd class, popd class, cp directory, and cat class
+* Begin implementation on search command, and tree command
+* Begin discussing implementation for save and load jshell
+c) Am I blocked on anything?  
+No.
