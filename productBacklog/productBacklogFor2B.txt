@@ -1,0 +1,39 @@
+User Stories												Time Estimate
+						
+As a User, I should be able delete a directory, along with all of its contents. 			2hr		
+
+As a User, I should be able to create a specified number of directories.				2hr
+
+As a User, I should be able to view all sub directories of a specific directory.			4hr													
+
+As a User, I should be able to see what each command does individually.					10min
+
+As a User, I should be able to reposition directories in the file system.				4hr 
+
+As a User, I should be able to reposition files in the file system. 					4hr
+
+As a User, I should be able to copy existing directories in the file system
+, along with its sub directories;and position them at a desired location in the file system.		5hr
+
+As a User, I should be able to copy existing files in the file system; and position them at 		1hr
+a desired location in the file system.									
+
+As a User, I should be able to add files from a desired web address to my file system.			1hr		
+
+As a User, I should be able to save the current version of my mock filesystem as 			1day
+a file on the actual file system in the computer.							
+
+As a User, I should be able overwrite current existing version 						5hr
+of the mock filesystem on the computer.									 
+
+As a User, I should be able to resume progress of my mock filesystem after closing the terminal.	3hr
+
+As a User, I should be able to load my mock filesystem file from my computer onto J shell.		3hr
+
+As a User, I should be able to view a visual representation of the file system, 			1hr
+including all the directories, subdirectories, and files.						
+
+As a User, I should be able to search for directories in my file system.				5hr
+
+As a User, I should be able to search for files in my file system.					2hr															
+ 

@@ -1,0 +1,46 @@
+	User Stories										Time Estimate
+	
+	As a User, I should be able to exit the terminal at any given time			1h
+													
+	As a User, I should be able to store related information in one location		3h
+	
+	As a User, I should be able to make a directory						3d
+	
+	As a User, I should be able to make two directories					3d
+	
+	As a User, I should be able to view the contents of a specific directory		1h
+	
+	As a User, I should be able to view the contents of the current directory		1h
+	
+	As a User, I should be able to print out the contents of a specific file		1h
+	
+	As a User, I should be able to know why my command is wrong				undefined
+	
+	As a User, I should be able to display the contents of the file				2h
+	
+	As a User, I should be able to change my current directory				1h
+	
+	As a User, I should be able to display the path of my current working directory		2hr
+	
+	As a User, I should be able to access the most recently saved directory			1h
+	
+	As a User, I should be able to change my current working directory whilst 		5h
+	saving my previous working directory
+	
+	As a User, I should be able to print out recent commands				1h
+	
+	As a User, I should be able to display the contents of multiple files together		2h
+	
+	As a User, I should be able to display a what I input 					1h
+	
+	As a User, I should be able to save a what I input into a file				1h
+	
+	As a User, I should be able to replace the contents of the file with a string		5h
+	
+	As a User, I should be able to add a string into the contents of file			5h
+	
+	As a User, I should be able to see what each command does				3h
+
+	As a User, I should be prompted to input a command					3h
+
+	
